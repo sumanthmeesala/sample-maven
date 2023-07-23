@@ -14,4 +14,9 @@ public class ThisIsATest {
 		assertTrue(true);
 	}
 
+	@Test
+	public void test_that_false() {
+		assertTrue(false);
+	}
+
 }
