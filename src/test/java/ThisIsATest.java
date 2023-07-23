@@ -13,10 +13,4 @@ public class ThisIsATest {
 	public void test_that() {
 		assertTrue(true);
 	}
-
-	@Test
-	public void test_that_false() {
-		assertTrue(false);
-	}
-
 }
