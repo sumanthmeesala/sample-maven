@@ -6,4 +6,17 @@
 	<name>sample-maven</name>
 
 
+	<properties>
+		<java.version>17</java.version>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>org.junit.jupiter</groupId>
+			<artifactId>junit-jupiter-api</artifactId>
+			<version>5.10.0-RC2</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+
 </project>
